@@ -15,6 +15,13 @@ Gem::Specification.new do |s|
   s.extra_rdoc_files = [
     "README.markdown"
   ]
+  s.files = [
+    "README.markdown",
+     "Rakefile",
+     "VERSION.yml",
+     "lib/safe_fork.rb",
+     "safefork.gemspec"
+  ]
   s.homepage = %q{http://rubygems.com/gems/safefork}
   s.rdoc_options = ["--charset=UTF-8"]
   s.require_paths = ["lib"]

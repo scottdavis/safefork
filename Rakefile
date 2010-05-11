@@ -10,6 +10,7 @@ begin
     gemspec.homepage = "http://rubygems.com/gems/safefork"
     gemspec.authors = ["Scott Davis", "Nick Gauither"]
   end
+  Jeweler::GemcutterTasks.new
 rescue LoadError
   puts "Jeweler not available. Install it with: gem install jeweler"
 end

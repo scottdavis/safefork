@@ -7,7 +7,7 @@ begin
     gemspec.summary = "Safe forking for active record"
     gemspec.description = "Safe forking for active record"
     gemspec.email = "jetviper21@gmail.com"
-    gemspec.homepage = "http://rubygems.com/gems/safefork"
+    gemspec.homepage = "http://github.com/jetviper21/safefork"
     gemspec.authors = ["Scott Davis", "Nick Gauither"]
   end
   Jeweler::GemcutterTasks.new

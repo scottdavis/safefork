@@ -1,6 +1,6 @@
 # SafeFork #
 
-Safe fork allows active record models to be ran in child processes safely by wrapping Process.fork
+Safe fork allows ActiveRecord models to be ran in child processes safely by wrapping Process.fork
 
 # Usage #
 	require 'safefork'
